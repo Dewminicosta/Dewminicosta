@@ -29,5 +29,13 @@ I love solving problems and designing things that look beautiful ✨
 
 ---
 
-### 🚀 Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🚀 Languages & Tools  
+
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)  
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/Markup-HTML5-red?logo=html5&logoColor=white)  
+![C](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-purple?logo=kotlin&logoColor=white)  
+
